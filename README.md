@@ -1,4 +1,4 @@
-# Login Form Validation
+# Login Form Validation | Javascript OOP
 
 This project demonstrates how to implement form validation for a login form using JavaScript and Object-Oriented Programming (OOP). The validation ensures that the email is in a valid format and the password meets the minimum length requirement.
 
